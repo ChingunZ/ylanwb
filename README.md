@@ -2,6 +2,9 @@
       Hi There!
 </h1>
 <p align="center">
+      Welcome to my profile
+</p>
+<p align="center">
       <img src="https://c.tenor.com/OoQlWsxH2SEAAAAC/hi-anime-hello.gif"/>
 </p>
 
