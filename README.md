@@ -8,11 +8,11 @@
 <h1 align="center">
       About Me💬
 </h1>
-
+<!-- 
 - 🎮**Hobbies**: Anime, manga and games
 - 🏀**Activities**: Basketball, Gym, Soccer
 - ⚪️**Gender**: Male
-- 
+- -->
 ### - Learning :
 - ✨ Learning software developer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
