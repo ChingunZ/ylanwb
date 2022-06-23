@@ -8,7 +8,7 @@
 <h1 align="center">
       About Me💬
 </h1>
-<img hight="100" width="200" alt="GIF" align="right" src="https://i.pinimg.com/originals/bb/2a/f7/bb2af7db610378552532b8b91af93e2f.jpg">
+<img hight="50" alt="GIF" align="right" src="https://i.pinimg.com/originals/bb/2a/f7/bb2af7db610378552532b8b91af93e2f.jpg">
 - 😎**Name**: Cingu
 - 🏦**Occupation**: Learning software developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
