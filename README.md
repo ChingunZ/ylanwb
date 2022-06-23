@@ -8,14 +8,13 @@
 <h1 align="center">
       About Me💬
 </h1>
-
-- 🎮**Hobbies**: Anime, manga and games
-- 🏀**Activities**: Basketball, Gym, Soccer
-- ⚪️**Gender**: Male
-
+<p align="center">
+      I'm a 14 year old learning about web developing and is a aspiring software developer. I like physical activities like sports but also like activities such as reading.
+</p>
 
 
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+
+<h2 align="center">            ~ 📇 Knowledge 📇 ~</h2>
  <br>
 <p>
   <div align="center">
