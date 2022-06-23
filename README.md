@@ -8,14 +8,23 @@
 <h1 align="center">
       About Me
 </h1>
- <p>
+ <p align>
             - 🏦 I'm a learning software developer
             <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-            - 📖 I am currently watching Spy x Family and reading dozens of manhwa
-            - 💬 Talk to me about coding, anime, manga/manhwa and more!
-            - 🎮 We can play online videogames, from something like chess to games like roblox.
-            - 🧑‍💻 Tech I work on :
 </p>
+<p align>
+            - 📖 I am currently watching Spy x Family and reading dozens of manhwa
+</p>
+<p align>
+          - 💬 Talk to me about coding, anime, manga/manhwa and more!
+</p>
+<p align>
+            - 🎮 We can play online videogames, from something like chess to games like roblox.
+</p>
+<p align>
+           - 🧑‍💻 Tech I work on :
+</p>
+
 <!-- - 🏦 I'm a learning software developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📖 I am currently watching Spy x Family and reading dozens of manhwa
