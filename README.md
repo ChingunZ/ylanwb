@@ -1,7 +1,4 @@
 <h1 align="center">
-      Hi There!
-</h1>
-<h1 align="center">
       Welcome to my profile
 </h1>
 <p align="center">
