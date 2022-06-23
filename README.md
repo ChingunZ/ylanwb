@@ -1,5 +1,5 @@
+<p align="center">Hi There!</p>
 <p align="center">
-      Hi there
       <img src="https://c.tenor.com/OoQlWsxH2SEAAAAC/hi-anime-hello.gif"/>
 </p>
 
