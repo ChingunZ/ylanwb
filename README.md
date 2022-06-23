@@ -8,20 +8,20 @@
 <h1 align="center">
       About Me
 </h1>
- <p align>
+ <p align="center">
             - 🏦 I'm a learning software developer
             <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
-<p align>
+<p align="center">
             - 📖 I am currently watching Spy x Family and reading dozens of manhwa
 </p>
-<p align>
+<p align="center">
           - 💬 Talk to me about coding, anime, manga/manhwa and more!
 </p>
-<p align>
+<p align="center">
             - 🎮 We can play online videogames, from something like chess to games like roblox.
 </p>
-<p align>
+<p align="center">
            - 🧑‍💻 Tech I work on :
 </p>
 
