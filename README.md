@@ -6,14 +6,18 @@
 </p>
 
 <h1 align="center">
-      About Me
+      About Me💭
 </h1>
 
 - 🏦 I'm a learning software developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📖 I am currently watching Spy x Family and reading dozens of manhwa
-- 💬 Talk to me about coding, anime, manga/manhwa and more!
-- 🎮 We can play online videogames, from something like chess to games like roblox.
+- 📖 Anime and Manga enthusiast
+- 🏀 Sports fan
+- 🎮 Gamer
+
+<h1 align="center">
+      ✨Wisdom✨
+</h1>
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
