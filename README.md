@@ -16,7 +16,6 @@
 
 ### - Learning :
 - ✨ Learning software developer
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ✨ High Schooler
 
 ### - Hobbies : 
