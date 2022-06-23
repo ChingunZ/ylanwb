@@ -15,7 +15,7 @@
 - 🎮**Hobbies**: Anime, manga and games
 - 🏀**Activities**: Basketball, Gym, Soccer
 - ⚪️**Gender**: Male
-
+<img src="https://media-exp1.licdn.com/dms/image/C5112AQHAjtQwanNttQ/article-cover_image-shrink_600_2000/0/1545802022760?e=1659571200&v=beta&t=iDrOU9mCGEvGnyZslGePEMWRGHsjI6Gskc6TNYbfusI" />
 <h1 align="center">
       ✨Wisdom✨
 </h1>
