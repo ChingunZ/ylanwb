@@ -5,13 +5,23 @@
       <img src="https://c.tenor.com/OoQlWsxH2SEAAAAC/hi-anime-hello.gif"/>
 </p>
 
-###  About Me:
-- 🏦 I'm a learning software developer
+<h1 align="center">
+      About Me
+      <p>
+            - 🏦 I'm a learning software developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📖 I am currently watching Spy x Family and reading dozens of manhwa
 - 💬 Talk to me about coding, anime, manga/manhwa and more!
 - 🎮 We can play online videogames, from something like chess to games like roblox.
 - 🧑‍💻 Tech I work on :
+      </p>
+</h1>
+<!-- - 🏦 I'm a learning software developer
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📖 I am currently watching Spy x Family and reading dozens of manhwa
+- 💬 Talk to me about coding, anime, manga/manhwa and more!
+- 🎮 We can play online videogames, from something like chess to games like roblox.
+- 🧑‍💻 Tech I work on : -->
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
