@@ -9,11 +9,12 @@
       About Me💭
 </h1>
 
-- 🏦 I'm a learning software developer
+- 😎**Name**: Cingu
+- 🏦**Occupation**: Learning software developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📖 Anime and Manga enthusiast
-- 🏀 Sports fan
-- 🎮 Gamer
+- 🎮**Hobbies**: Anime, manga and games
+- 🏀**Activities**: Basketball, Gym, Soccer
+- ⚪️**Gender**: Male
 
 <h1 align="center">
       ✨Wisdom✨
