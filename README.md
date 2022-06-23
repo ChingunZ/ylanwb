@@ -1,7 +1,6 @@
 <h1 align="center">
       Hi There!
 </h1>
-#Hi There!
 <p align="center">
       <img src="https://c.tenor.com/OoQlWsxH2SEAAAAC/hi-anime-hello.gif"/>
 </p>
