@@ -9,7 +9,17 @@
       🦋 About Me 🦋
 </h1>
 <p align="center">
-      <span style="color: blue">I'm a 14 year old learning about web developing and is a aspiring software developer.</span>
+<!--       <span>I'm a 14 year old learning about web developing and is a aspiring software developer.</span> -->
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="100" height="50"
+>
+  <text font-size="16" x="10" y="20">
+    <tspan fill="blue">Hello</tspan>,
+  </text>
+      
+</svg>
 <br>
 <p align=center>
   <div align=center>
