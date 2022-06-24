@@ -10,14 +10,6 @@
 </h1>
 
 <h3 align="center">I'm a 14 year old learning about web developing and is a aspiring software developer.</h3>
-```diff
-+ Green
-- Red
-! Orange
-@@ Pink @@
-# Gray
-...
-```
 
 <br>
 <p align=center>
