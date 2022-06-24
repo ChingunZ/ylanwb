@@ -35,7 +35,7 @@
 <h1 align="center">👨‍💻 Repositories 👨‍💻</h1>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ylanwb/world.cat.day.img.generator" title="CatGen"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ylanwb&repo=world.cat.day.img.generator&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ylanwb/CatGen" title="CatGen"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ylanwb&repo=CatGen&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/ylanwb/space-invaders" title="Space Invaders"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ylanwb&repo=space-invaders&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
