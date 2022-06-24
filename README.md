@@ -1,12 +1,12 @@
 <h1 align="center">
-      🦋Welcome to my profile🦋
+      💙Welcome to my profile💙
 </h1>
 <p align="center">
       <img src="https://c.tenor.com/OoQlWsxH2SEAAAAC/hi-anime-hello.gif"/>
 </p>
 
 <h1 align="center">
-      💙 About Me 💙
+      🦋 About Me 🦋
 </h1>
 <p align="center">
       I'm a 14 year old learning about web developing and is a aspiring software developer.
