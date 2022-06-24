@@ -9,7 +9,7 @@
       About Me💬
 </h1>
 <p align="center">
-      I'm a 14 year old learning about web developing and is a aspiring software developer. I like physical activities like sports but also like activities such as reading.
+      I'm a 14 year old learning about web developing and is a aspiring software developer.
 </p>
 
 
