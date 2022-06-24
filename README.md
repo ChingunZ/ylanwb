@@ -10,7 +10,7 @@
 </h1>
 
 <h3 align="center">I'm a 14 year old learning about web developing and is a aspiring software developer.</h3>
-![Red text](http://placehold.it/size/background-hex/foreground-hex?text=Hithisisatest)
+@@ Test @@
 
 <br>
 <p align=center>
