@@ -11,7 +11,13 @@
 <p align="center">
       I'm a 14 year old learning about web developing and is a aspiring software developer.
 </p>
+<a  href="https://github.com/ylanwb">
 
+<img src="https://raw.githubusercontent.com/ylanwb/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/ylanwb/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/ylanwb/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
 
 
 <h1 align="center">📇 Knowledge 📇</h1>
@@ -28,7 +34,6 @@
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <br>
-I'm a middle school graduate and work on making websites and webgames. I'm going to highschool next year and very excited about it. 
 </p>
  
 
