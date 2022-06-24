@@ -13,13 +13,6 @@
 </p>
 <a  href="https://github.com/ylanwb">
 
-<!-- <img src="https://raw.githubusercontent.com/Cingu/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Cingu/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Cingu/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a> -->
-
-
 <div align="center" >
 <a  href="https://github.com/ylanwb">
 
@@ -38,7 +31,7 @@
 
 <hr></hr>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
+<img src="https://github.com/ylanwb/ylanwb/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
 
 </div>
