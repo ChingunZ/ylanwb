@@ -10,6 +10,7 @@
 </h1>
 <p align="center">
       I'm a 14 year old learning about web developing and is a aspiring software developer.
+      
 </p>
 
 <h1 align="center">📇 Knowledge 📇</h1>
@@ -24,8 +25,5 @@
  
 
 <div align="center">
-      
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
       
 </div>
