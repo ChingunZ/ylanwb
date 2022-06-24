@@ -45,7 +45,7 @@
       <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ylanwb&repo=calculator-project&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a align="right" href="https://github.com/ylanwb/arc-reactor" title="Arc Reactor">
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ylanwb&repo=arc-reactor&border_color=61dafb&border_radius=10">
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ylanwb&repo=arc-reactor&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
