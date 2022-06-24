@@ -9,7 +9,7 @@
       🦋 About Me 🦋
 </h1>
 <p align="center">
-      I'm a 14 year old learning about web developing and is a aspiring software developer.
+      <span style="color: blue">I'm a 14 year old learning about web developing and is a aspiring software developer.</span>
 <br>
 <p align=center>
   <div align=center>
