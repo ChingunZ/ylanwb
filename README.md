@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-      About Me 💙
+      💙 About Me 💙
 </h1>
 <p align="center">
       I'm a 14 year old learning about web developing and is a aspiring software developer.
