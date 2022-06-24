@@ -13,8 +13,8 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/cingu/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=cingu-anka&theme=react&border=61dafb&hide_border=true" alt="Cingu" />
+    <a href="https://github.com/ylanwb/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ylanwb&theme=react&border=61dafb&hide_border=true" alt="Cingu" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
