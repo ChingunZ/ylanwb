@@ -8,9 +8,9 @@
 <h1 align="center">
       🦋 About Me 🦋
 </h1>
-<p align="center">
-      <h3 align="center">I'm a 14 year old learning about web developing and is a aspiring software developer.</h3>
-</p>
+
+<h3 align="center">I'm a 14 year old learning about web developing and is a aspiring software developer.</h3>
+
 <br>
 <p align=center>
   <div align=center>
