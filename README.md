@@ -10,12 +10,11 @@
 </h1>
 <p align="center">
       I'm a 14 year old learning about web developing and is a aspiring software developer.
-      <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    <a href="https://github.com/cingu/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=cingu-anka&theme=react&border=61dafb&hide_border=true" alt="Cingu" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
@@ -55,6 +54,7 @@
 </div>
 </p>
 
+<!-- 
 <h1 align="center">📇 Knowledge 📇</h1>
 
 <br>
@@ -64,8 +64,9 @@
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <br>
 </p>
- 
+  -->
 
-<div align="center">
+<!-- <div align="center">
       
 </div>
+ -->
