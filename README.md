@@ -2,7 +2,6 @@
       💙 Welcome to my profile 💙
 </h1>
 <p align="center">
-      <img src="https://c.tenor.com/OoQlWsxH2SEAAAAC/hi-anime-hello.gif"/>
 </p>
 
 <h1 align="center">
