@@ -1,11 +1,11 @@
 <h1 align="center">
-      💙 Welcome to my profile 💙
+      🔵 Welcome to my profile 🔵
 </h1>
 <p align="center">
 </p>
 
 <h1 align="center">
-      🦋 About Me 🦋
+      🔹 About Me 🔹
 </h1>
 
 <h3 align="center">I'm a 14 year old learning about web developing and is a aspiring software developer.</h3>
