@@ -8,7 +8,7 @@
       🔹 About Me 🔹
 </h1>
 
-<h3 align="center">I'm a 14 year old learning about web developing and is a aspiring software developer.</h3>
+<h3 align="center">I'm a 15 year old learning about web developing and is a aspiring software developer.</h3>
 
 <br>
 <p align=center>
